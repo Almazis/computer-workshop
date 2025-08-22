@@ -7,6 +7,8 @@ ifdef::env-github[]
 endif::[]
 
 = Диагностическая работа
+Vladimir Kutuev <vladimir.kutuev@gmail.com>
+:page-toclevels: 3
 :source-highlighter: rouge
 :rouge-style: github
 :icons: font
