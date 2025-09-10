@@ -1,3 +1,11 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :memo:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 = Базовые конструкции языка Си
 Anna Vasenina <almazisdev@gmail.com>
 :page-toclevels: 4
