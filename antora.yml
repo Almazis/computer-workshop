@@ -4,3 +4,4 @@ title: Практикум на ЭВМ
 nav:
   - modules/00-intro-work/nav.adoc
   - modules/01-lab-git/nav.adoc
+  - modules/02-c-intro/nav.adoc
